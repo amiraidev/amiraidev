@@ -13,7 +13,7 @@
 ### 🧠 About Me
 - 🔭 Currently working on **Advanced Computer Vision & Deep Learning projects**
 - 🌱 Deepening my knowledge in **Neural Networks, CNNs & Model Deployment**
-- 👯 Open to collaborations in **AI Research & Open Source**
+- 👥 Open to collaborations in **AI Research & Open Source**
 - 💬 Ask me about **Python, TensorFlow, Deep Learning concepts & GUI Apps**
 - 🎯 Goal: **To master the Art of Artificial Intelligence**
 
