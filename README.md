@@ -100,14 +100,14 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir01m&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Amir's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir01m&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amiraidev&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Amir's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraidev&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir01m&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amiraidev&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
