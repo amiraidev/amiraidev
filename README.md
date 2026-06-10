@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Computer%20Vision&descAlign=50&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20Developer%20%7C%20Django%20Developer%20%7C%20Computer%20Vision%20Engineer&descAlign=50&descAlignY=60&descSize=25" width="100%" />
 </div>
 
 <p align="center">
   <a href="https://github.com/Amir01m">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3366FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%9A%80;Machine+Learning+Developer;Computer+Vision+Enthusiast;Building+Real-World+AI+Projects;Python+%7C+ML+%7C+DL+%7C+Django" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3366FF&center=true&vCenter=true&width=900&lines=AI+Developer+%F0%9F%A4%96;Django+Developer+%26+Python+Instructor;Building+Industrial+Computer+Vision+Projects;Machine+Learning+%7C+Deep+Learning+%7C+Prompt+Engineering;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
