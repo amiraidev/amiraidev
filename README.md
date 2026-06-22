@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Amir01m">
+  <a href="https://github.com/amiraidev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3366FF&center=true&vCenter=true&width=900&lines=AI+Developer+%F0%9F%A4%96;Django+Developer+%26+Python+Instructor;Building+Industrial+Computer+Vision+Projects;Machine+Learning+%7C+Deep+Learning+%7C+Prompt+Engineering;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
