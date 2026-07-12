@@ -36,7 +36,7 @@
 
 ---
 
-### 🤖 AI / Machine Learning / Data Science
+### 🤖 AI / Machine Learning 
 
 | Technology | Level | Proficiency |
 |:---:|:---:|:---:|
