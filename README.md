@@ -14,7 +14,7 @@
 
 - 🔭 Currently working on an industrial Computer Vision project for automatic Whitefly counting
 - 🐍 Experienced Python developer with programming teaching experience
-- 🌱 Expanding my knowledge in AI Engineering, Data Science, LLMs & Model Deployment
+- 🌱 Expanding my knowledge in AI Engineering, LLMs & Model Deployment
 - 🏆 Gold Medalist in the 1i1w AI Programming Challenge
 - 🌐 Built and deployed my personal website using Django
 - 👥 Open to collaborations in AI, Machine Learning & Open Source
