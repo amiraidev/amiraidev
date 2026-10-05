@@ -1,54 +1,62 @@
-👨‍💻 About Me 
+🧠 About Me 
 
 I'm Amir, a Computer Engineering student focused on Python Backend Development and Applied AI.
 
-🐍 Building backend applications with Python, Django & DRF 🤖 Experience with Machine Learning, Deep Learning & Computer Vision 🧠 Exploring LLMs, RAG and AI Engineering ⚛️ Learning JavaScript & React for modern frontend development 🏆 Gold Medal — 1i1w AI Programming Challenge 2026 🎯 Goal: Build production-ready products combining Backend + AI 🛠️ Tech Stack Backend 
+🐍 Building backend applications with Python, Django & DRF 🤖 Hands-on experience with Machine Learning, Deep Learning & Computer Vision 🧠 Building and exploring LLM & RAG applications ⚛️ Developing modern frontends with JavaScript & React 🐛 Worked on an industrial Whitefly Detection & Counting System 🎓 Built & deployed a real-world University Attendance System 🏆 Gold Medal — 1i1w AI Programming Challenge 2026 🎯 Goal: Build production-ready products combining Backend + AI 🛠️ Technical Skills 
 
-Python — Advanced · Django — Intermediate · DRF — Junior · FastAPI — Beginner
+💡 Levels are based on my current hands-on experience and real projects.
 
-AI & Machine Learning 
+🐍 Programming Languages Technology Level Python Advanced JavaScript Junior C++ Junior 🌐 Backend Development Technology Level Django Intermediate Django REST Framework Junior 🔗 REST APIs Junior FastAPI Junior Django Experience 
 
-Machine Learning · Deep Learning · Computer Vision · YOLO · RAG · LLM Applications
+ORM • Authentication • Custom User Models • Forms • ModelForms • CBV/FBV • Admin • Pagination • Validation • Security • Deployment
 
-Frontend 
+🗄️ Databases Technology Level SQLite Intermediate PostgreSQL Junior MySQL Junior Redis Junior 🤖 AI / Machine Learning Technology Level 🧠 Machine Learning Intermediate TensorFlow / Keras Intermediate Computer Vision / OpenCV Intermediate 🎯 YOLO Intermediate Scikit-Learn Intermediate NumPy Intermediate Pandas Intermediate AI Experience 
 
-HTML/CSS — Intermediate · JavaScript — Beginner · React — Learning
+Classification • Clustering • CNN • RNN/LSTM • Image Classification • Object Detection • Segmentation • Pose Estimation • YOLOv8
 
-Tools & DevOps 
+🧠 LLM & AI Engineering Technology Level 💬 Prompt Engineering Intermediate 🤖 LLM Applications Junior 📚 RAG Systems Junior 🧩 Embeddings / Vector DB Junior 🤗 Hugging Face Transformers Junior 🗃️ ChromaDB Junior RAG Experience 
 
-Git/GitHub · Docker · Linux · SSH · Gunicorn · GitHub Actions
+Built a local RAG application using:
 
-🚀 Featured Projects 🎓 University Attendance System 
+FastAPI → Documents → Chunking → Embeddings → ChromaDB → Retrieval → Local LLM
 
-QR-based attendance system with teacher authentication, check-in/out, admin dashboard, reporting and production deployment.
+🎨 Frontend Development Technology Level HTML Intermediate CSS Intermediate JavaScript Junior React Junior Vite Junior 
 
-Django Python SQLite Security Linux
+Frontend is a supporting skill — my primary focus is Backend + AI.
 
-🐛 Whitefly Detection System 
+⚙️ Tools & DevOps Technology Level Git Intermediate GitHub Intermediate Docker Junior Linux Junior 🚀 Deployment Junior 
 
-Computer Vision system for detecting and counting whiteflies on yellow sticky traps.
+SSH • cPanel • Gunicorn • Docker Compose • Environment Variables • GitHub Actions
 
-Python YOLO OpenCV Django
+🚀 Featured Projects 🎓 University Attendance Management System 
+
+QR-based attendance system with authentication, check-in/out, admin dashboard, reports, security controls and production deployment.
+
+Stack: Django Python SQLite JavaScript Linux
+
+🐛 Whitefly Detection & Monitoring 
+
+Computer Vision system for detecting and counting whiteflies on yellow sticky traps with monitoring and reporting.
+
+Stack: Python YOLO OpenCV Django
 
 🧠 Local RAG Assistant 
 
-Local document-based AI assistant using retrieval and a local LLM.
+Document-based local AI assistant using vector retrieval and a local LLM.
 
-FastAPI ChromaDB RAG LLM
+Stack: FastAPI ChromaDB RAG LLM
 
 🌐 AmirAIDev Portfolio 
 
-My personal developer portfolio, currently being rebuilt with React.
+Modern personal portfolio built with React.
 
-React JavaScript Vite
+Stack: React JavaScript Vite
 
-📚 Currently Learning 
+🏆 Achievements 🥇 Gold Medal — 1i1w AI Programming Challenge 2026 🎓 Built & deployed a real-world University Attendance System 🐛 Worked on an industrial Computer Vision project 🧠 Built a working local RAG Assistant 🌐 Built and deployed multiple Django applications 🚀 Hands-on experience from development to deployment 📚 Current Path Django / DRF ↓ PostgreSQL & Redis ↓ React ↓ Docker & Linux ↓ FastAPI ↓ LLM & RAG ↓ AI Engineering ↓ Production AI Systems 📊 GitHub Stats 
 
-DRF → PostgreSQL → React → Docker → FastAPI → LLM/RAG → AI Engineering
 
-📊 GitHub 
+🌐 Connect With Me 
 
-🌐 Connect 
 
 "Learning isn't just about syntax — it's about building solutions that actually work." 
 
