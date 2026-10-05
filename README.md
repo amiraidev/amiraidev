@@ -23,55 +23,36 @@ I'm Amir, a Computer Engineering student focused on Python Backend Development a
 
 🛠️ Technical Skills
 
-«💡 Levels are based on my current hands-on experience and real projects.»
+«Technologies I've worked with through projects, coursework and hands-on development.»
 
-🐍 Programming Languages
+🐍 Backend & Programming
 
 Technology| Level
-<img src="https://skillicons.dev/icons?i=python" width="40"/> Python| Advanced
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/> JavaScript| Junior
-<img src="https://skillicons.dev/icons?i=cpp" width="40"/> C++| Junior
+<img src="https://skillicons.dev/icons?i=python" width="28"/> Python| Advanced
+<img src="https://skillicons.dev/icons?i=django" width="28"/> Django| Intermediate
+🔗 Django REST Framework| Junior
+<img src="https://skillicons.dev/icons?i=fastapi" width="28"/> FastAPI| Junior
+<img src="https://skillicons.dev/icons?i=javascript" width="28"/> JavaScript| Junior
+<img src="https://skillicons.dev/icons?i=cpp" width="28"/> C++| Junior
+
+"Django ORM" • "REST APIs" • "Authentication" • "Forms" • "Validation" • "Security Basics" • "Deployment"
 
 ---
 
-🌐 Backend Development
-
-Technology| Level
-<img src="https://skillicons.dev/icons?i=django" width="40"/> Django| Intermediate
-<img src="https://skillicons.dev/icons?i=django" width="40"/> Django REST Framework| Junior
-🔗 REST APIs| Junior
-<img src="https://skillicons.dev/icons?i=fastapi" width="40"/> FastAPI| Junior
-
-Django Experience
-
-"ORM" • "Authentication" • "Custom User Models" • "Forms" • "ModelForms" • "CBV/FBV" • "Admin" • "Pagination" • "Validation" • "Security" • "Deployment"
-
----
-
-🗄️ Databases
-
-Technology| Level
-<img src="https://skillicons.dev/icons?i=sqlite" width="40"/> SQLite| Intermediate
-<img src="https://skillicons.dev/icons?i=postgresql" width="40"/> PostgreSQL| Junior
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL| Junior
-<img src="https://skillicons.dev/icons?i=redis" width="40"/> Redis| Junior
-
----
-
-🤖 AI / Machine Learning
+🤖 AI & Machine Learning
 
 Technology| Level
 🧠 Machine Learning| Intermediate
-<img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> TensorFlow / Keras| Intermediate
-<img src="https://skillicons.dev/icons?i=opencv" width="40"/> Computer Vision / OpenCV| Intermediate
-🎯 YOLO| Intermediate
-<img src="https://skillicons.dev/icons?i=sklearn" width="40"/> Scikit-Learn| Intermediate
-<img src="https://skillicons.dev/icons?i=numpy" width="40"/> NumPy| Intermediate
-<img src="https://skillicons.dev/icons?i=pandas" width="40"/> Pandas| Intermediate
+🧬 Deep Learning| Intermediate
+👁️ Computer Vision| Intermediate
+<img src="https://skillicons.dev/icons?i=tensorflow" width="28"/> TensorFlow / Keras| Intermediate
+<img src="https://skillicons.dev/icons?i=opencv" width="28"/> OpenCV| Intermediate
+🎯 YOLO / YOLOv8| Intermediate
+<img src="https://skillicons.dev/icons?i=sklearn" width="28"/> Scikit-Learn| Intermediate
+<img src="https://skillicons.dev/icons?i=numpy" width="28"/> NumPy| Intermediate
+<img src="https://skillicons.dev/icons?i=pandas" width="28"/> Pandas| Intermediate
 
-AI Experience
-
-"Classification" • "Clustering" • "CNN" • "RNN/LSTM" • "Image Classification" • "Object Detection" • "Segmentation" • "Pose Estimation" • "YOLOv8"
+"CNN" • "RNN/LSTM" • "Classification" • "Clustering" • "Object Detection" • "Segmentation" • "Pose Estimation"
 
 ---
 
@@ -80,43 +61,37 @@ AI Experience
 Technology| Level
 💬 Prompt Engineering| Intermediate
 🤖 LLM Applications| Junior
-📚 RAG Systems| Junior
-🧩 Embeddings / Vector DB| Junior
+📚 RAG| Junior
+🧩 Embeddings & Vector Search| Junior
 🤗 Hugging Face Transformers| Junior
 🗃️ ChromaDB| Junior
 
-RAG Experience
-
-Built a local RAG application using:
-
-"FastAPI → Documents → Chunking → Embeddings → ChromaDB → Retrieval → Local LLM"
+"Local LLMs" • "Document Processing" • "Chunking" • "Embeddings" • "Vector Search" • "Retrieval"
 
 ---
 
-🎨 Frontend Development
+🎨 Frontend
 
 Technology| Level
-<img src="https://skillicons.dev/icons?i=html" width="40"/> HTML| Intermediate
-<img src="https://skillicons.dev/icons?i=css" width="40"/> CSS| Intermediate
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/> JavaScript| Junior
-<img src="https://skillicons.dev/icons?i=react" width="40"/> React| Junior
-<img src="https://skillicons.dev/icons?i=vite" width="40"/> Vite| Junior
-
-«Frontend is a supporting skill — my primary focus is Backend + AI.»
+<img src="https://skillicons.dev/icons?i=html" width="28"/> HTML| Intermediate
+<img src="https://skillicons.dev/icons?i=css" width="28"/> CSS| Intermediate
+<img src="https://skillicons.dev/icons?i=javascript" width="28"/> JavaScript| Junior
+<img src="https://skillicons.dev/icons?i=react" width="28"/> React| Junior
+<img src="https://skillicons.dev/icons?i=vite" width="28"/> Vite| Junior
 
 ---
 
-⚙️ Tools & DevOps
+🗄️ Database & DevOps
 
 Technology| Level
-<img src="https://skillicons.dev/icons?i=git" width="40"/> Git| Intermediate
-<img src="https://skillicons.dev/icons?i=github" width="40"/> GitHub| Intermediate
-<img src="https://skillicons.dev/icons?i=docker" width="40"/> Docker| Junior
-<img src="https://skillicons.dev/icons?i=linux" width="40"/> Linux| Junior
-🚀 Deployment| Junior
+<img src="https://skillicons.dev/icons?i=sqlite" width="28"/> SQLite| Intermediate
+<img src="https://skillicons.dev/icons?i=postgresql" width="28"/> PostgreSQL| Junior
+<img src="https://skillicons.dev/icons?i=redis" width="28"/> Redis| Junior
+<img src="https://skillicons.dev/icons?i=git" width="28"/> Git / GitHub| Intermediate
+<img src="https://skillicons.dev/icons?i=docker" width="28"/> Docker| Junior
+<img src="https://skillicons.dev/icons?i=linux" width="28"/> Linux| Junior
 
-"SSH" • "cPanel" • "Gunicorn" • "Docker Compose" • "Environment Variables" • "GitHub Actions"
-
+"GitHub Actions" • "SSH" • "Gunicorn" • "Docker Compose" • "cPanel Deployment"
 ---
 
 🚀 Featured Projects
